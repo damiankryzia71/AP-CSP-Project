@@ -1,0 +1,9 @@
+background image:
+  http://www.carseatinstallers.com/wp-content/uploads/2015/09/simple-grey-background-4.jpg
+
+icon:
+  https://www.clipart.email/clipart/gaming-keyboard-clipart-303069.html
+  png converted to ico by:
+    https://convertio.co/jpeg-ico/
+
+The 'sub', 'title', and 'wpm' images were created by me using GIMP.
